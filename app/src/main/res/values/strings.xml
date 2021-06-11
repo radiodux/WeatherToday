@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WeatherToday</string>
+    <string name="title_home">Домой</string>
+    <string name="title_dashboard">..</string>
+    <string name="title_notifications">Оповещения</string>
+    <string name="title_current">Текущий</string>
+    <string name="title_forecast">Прогноз</string>
+    <string name="weather_icon">..</string>
+    <string name="dummy_location">..</string>
+    <string name="dummy_temperature">..</string>
+    <string name="wind_data">Скорость ветра</string>
+    <string name="humidty">Облачность</string>
+    <string name="unit">C/F</string>
+    <string name="tomorrow">Сломано</string>
+    <string name="day_after">Сломано</string>
+    <string name="thirdDay">Сломано</string>
+    <string name="title_activity_maps">..</string>
+</resources>
